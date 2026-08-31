@@ -1,0 +1,8 @@
+Godot Engine v3.5.3.stable.official.6c814135b - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon RX 550 / 550 Series (radeonsi, polaris12, ACO, DRM 3.61, 6.12.105+deb13-amd64)
+Async. shader compilation: OFF
+ 
+ERROR: Invalid locale ''.
+   at: get_language_code (core/translation.cpp:998) - Condition "p_locale.length() < 2" is true. Returned: p_locale
+ERROR: Unsupported locale '', falling back to 'en'.
+   at: set_locale (core/translation.cpp:1021) - Unsupported locale '', falling back to 'en'.
